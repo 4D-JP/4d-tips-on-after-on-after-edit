@@ -9,4 +9,4 @@ v14以降，テキスト入力エリアのイベント制御が新しくなっ�
 
 ### スクリーンショット
 
-<img width="600" src="https://user-images.githubusercontent.com/10509075/74890112-73398180-53c6-11ea-99e3-37f14059ffc9.png" />
+<img width="455" src="https://user-images.githubusercontent.com/10509075/74890156-9106e680-53c6-11ea-8a18-c6defe94fe31.png" />
